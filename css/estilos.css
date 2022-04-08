@@ -1,0 +1,43 @@
+.fondo{
+    background-color: white;
+} 
+
+.color{
+    color:red;
+}
+
+
+#caja{
+    width: 300px;
+    border: 15px solid green;
+    padding: 20px;
+    margin: 20px;
+}
+
+.letra{
+    font-family: fantasy;
+    color: white;
+    
+}
+.letra2{
+    font-family: fantasy;
+    color:white
+}
+footer{
+    padding: 20px;
+    color: #c5c5c5;
+    background-color: #212529;
+    height: auto;
+    margin-top: 20px;
+  }
+  nav.navbar{background-color: burlywood !important;}
+
+  .info-vid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 60px 0 60px 0;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
